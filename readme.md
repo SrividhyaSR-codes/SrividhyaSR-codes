@@ -1,14 +1,11 @@
-<h1 align="center"About Me </h1>
-<h3 align="center"> Senior Java Developer with 8+ years of experience designing and delivering scalable enterprise applications in the banking domain. My expertise lies in Spring Boot microservices, RESTful APIs, CI/CD automation, Docker-based deployments, and cloud-native solutions.
-Currently, I am expanding my expertise into Generative AI systems by integrating Python-based LLM orchestration with enterprise-grade Java microservices and React frontends</h3>
+<h1 align="center">📝 About Me: </h1>
+<h3 align="center"> - 🎯 Senior Java Developer with 8+ years of experience designing and delivering scalable enterprise applications in the banking domain. My expertise lies in Spring Boot microservices, RESTful APIs, CI/CD automation, Docker-based deployments, and cloud-native solutions.
+                    - 🚀 Currently, I am expanding my expertise into Generative AI systems by integrating Python-based LLM orchestration with enterprise-grade Java microservices and React frontends</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srividhyasr-codes&label=Profile%20views&color=0e75b6&style=flat" alt="srividhyasr-codes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srividhyasr-codes" alt="srividhyasr-codes" /></a> </p>
 
-- 🌱 I’m currently learning **on Java, Python and GenAI**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Let's Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/srividhya-ramamurthy-8b19231a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srividhya-ramamurthy-8b19231a7/" height="30" width="40" /></a>
 </p>
