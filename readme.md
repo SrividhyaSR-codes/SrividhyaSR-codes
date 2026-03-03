@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Srividhya SR</h1>
-<h3 align="center">A passionate Java developer from Cognizant</h3>
+<h1 align="center"About Me </h1>
+<h3 align="center"> Senior Java Developer with 8+ years of experience designing and delivering scalable enterprise applications in the banking domain. My expertise lies in Spring Boot microservices, RESTful APIs, CI/CD automation, Docker-based deployments, and cloud-native solutions.
+Currently, I am expanding my expertise into Generative AI systems by integrating Python-based LLM orchestration with enterprise-grade Java microservices and React frontends</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srividhyasr-codes&label=Profile%20views&color=0e75b6&style=flat" alt="srividhyasr-codes" /> </p>
 
