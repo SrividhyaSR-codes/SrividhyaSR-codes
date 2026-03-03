@@ -1,9 +1,9 @@
-# ## 📝 About Me:
+## 📝 About Me:
 Senior Software Developer (Java/AWS/Springboot/CI-CD/SQL) at Cognizant with 8+ years of of experience designing and delivering scalable enterprise applications in the banking domain. My expertise lies in Spring Boot microservices, RESTful APIs, CI/CD automation, Docker-based deployments, and cloud-native solutions. Currently, I am expanding my expertise into Generative AI systems by integrating Python-based LLM orchestration with enterprise-grade Java microservices and React frontends. 
 
 
 ## 🌐 Socials:
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-nagarajank) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vickypaiyaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vickypaiyaa@gmail.com) ](https://www.linkedin.com/in/srividhya-ramamurthy-8b19231a7/)
+https://www.linkedin.com/in/srividhya-ramamurthy-8b19231a7/
 
 # 💻 Tech Stack:
 
