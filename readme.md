@@ -3,8 +3,8 @@ Senior Software Developer (Java/AWS/Springboot/CI-CD/SQL) at Cognizant with 8+ y
 
 
 ## 🌐 Socials:
-https://www.linkedin.com/in/srividhya-ramamurthy-8b19231a7/
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]https://www.linkedin.com/in/srividhya-ramamurthy-8b19231a7/
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srividhya1208jobs@gmail.com) 
 # 💻 Tech Stack:
 
 ## Programming Languages & Core
