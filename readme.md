@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🚀 Senior Software Developer | Generative AI Enthusiast | Enterprise Architect
+### 🚀 Technical Architect | Generative AI Enthusiast | Enterprise Architect
 **Banking Domain | Microservices | Cloud-Native Solutions**
 
 </div>
